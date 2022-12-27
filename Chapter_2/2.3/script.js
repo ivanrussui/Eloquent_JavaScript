@@ -15,7 +15,7 @@
 // }
 
 
-let size = 8;
+const size = 8;
 let res = '';
 
 for (let i = 0; i < size; i++) {
